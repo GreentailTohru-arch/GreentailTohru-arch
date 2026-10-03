@@ -1,4 +1,4 @@
-<img alt="Hello, I’m Ren — Ren Design Studio" src="assets/ren-welcome.png" width="100%">
+<img alt="Hello, I’m Ren — Ren Design Studio" src="assets/ren-editorial.png" width="100%">
 
 <p align="center">探索设计、代码与交互，把想法变成作品。</p>
 
