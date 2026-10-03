@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hello-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hello-light.svg">
-  <img alt="Hello, I’m Ren. Design with intention. Build with curiosity." src="assets/hello-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ren-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/ren-banner-light.svg">
+  <img alt="Hello, I’m Ren. Design with intention. Build with curiosity." src="assets/ren-banner-light.svg" width="100%">
 </picture>
 
 <p align="center">探索设计、代码与交互，把想法变成作品。</p>
